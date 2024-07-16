@@ -1,7 +1,7 @@
 # Music-Generation-using-Deep-Learning
 
 
-This a Colab notebook that has the python code for Music Generation using Deep Learning
+This is a Colab notebook that has the python code for Music Generation using Deep Learning
 So more ruuning the notebook effieciently you will require to collect midi data.
 Midi is type or we can say as an extension of a music.
 You can download midi sounds from the web.
